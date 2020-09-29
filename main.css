@@ -270,6 +270,7 @@ body{
 .bio2 p{
     direction: rtl;
     padding: 0  20px;
+    line-height: 32px;
 }
 .percentage{
     
