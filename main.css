@@ -164,7 +164,7 @@ body{
 }
 
 .twitter{
-    background-image: url(./img/icons8-twitter-480.png);
+    background-image: url(./img/icons8-twitter-480\ c.png);
     background-position: center;
     background-size: cover;
     filter: grayscale(1);
